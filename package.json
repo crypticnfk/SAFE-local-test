@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@gnosis.pm/mock-contract": "github:gnosis/mock-contract#sol_0_5_0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^2.5.0",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
